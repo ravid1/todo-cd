@@ -1,0 +1,15 @@
+:host {
+
+  .todo-list {
+    padding: 10px;
+
+    &__item {
+      border: 1px solid grey;
+    }
+  }
+
+  .highlight-list {
+    background-color: red;
+  }
+
+}

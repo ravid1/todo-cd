@@ -1,0 +1,14 @@
+:host {
+
+  height: 100%;
+  width: 100%;
+  //text-align: center;
+  display: flex;
+  justify-content: center;
+
+  .app {
+    height: 100%;
+    width: 70%;
+    text-align: center;
+  }
+}

@@ -1,0 +1,15 @@
+:host {
+
+
+  .todo-item {
+    padding: 12px 8px 12px 40px;
+    background-color: white;
+    &__inner {
+      background-color: white;
+    }
+  }
+
+  .highlight-item {
+    background-color: yellow;
+  }
+}

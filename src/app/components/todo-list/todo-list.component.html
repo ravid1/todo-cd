@@ -1,0 +1,6 @@
+<div class="todo-list" #container>
+  <div *ngFor="let listItem of list" class="todo-list__item">
+    <todo-item [todoItem]="listItem">
+    </todo-item>
+  </div>
+</div>
